@@ -1,0 +1,7 @@
+Harmonic restraints for window 10
+  &rst
+   iat=6448, 9325,
+   fxyz=0,0,1,
+   r1=0.0, r2=10.0, r3=10.0, r4=20.0,
+   rk2=10.0, rk3=10.0,
+  /
